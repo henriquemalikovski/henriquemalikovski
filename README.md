@@ -1,7 +1,7 @@
 ## Olá Pessoas! Eu sou o Henrique Malikovski
  <div>
   <a href="https://github.com/henriquemalikovski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemalikovski&show_icons=true&include_all_commits=true&count_private=true&bg_color=22272E&title_color=FFF&text_color=FFF&icon_color=FFF&hide_border=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemalikovski&show_icons=true&include_all_commits=true&count_private=true&bg_color=22272E&title_color=FFF&text_color=FFF&icon_color=93A9C7&hide_border=true&locale=pt-br"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalikovski&layout=compact&langs_count=16&bg_color=22272E&title_color=FFF&text_color=FFF&icon_color=FFF&hide_border=true&locale=pt-br"/>
 <div>
 <div style="display: inline_block"><br>
