@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Henrique Malikovski
+## Olá Pessoas! Eu sou o Henrique Malikovski
  <div>
   <a href="https://github.com/henriquemalikovski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemalikovski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
