@@ -1,16 +1,4 @@
-## Olá Pessoas! Eu sou o Henrique Malikovski
- <div>
-  <a href="https://github.com/henriquemalikovski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemalikovski&show_icons=true&include_all_commits=true&count_private=true&bg_color=22272E&title_color=FFF&text_color=FFF&icon_color=93A9C7&hide_border=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemalikovski&layout=compact&langs_count=16&bg_color=22272E&title_color=FFF&text_color=FFF&icon_color=FFF&hide_border=true&locale=pt-br"/>
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Henrique-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Henrique-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Henrique-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
+## Olá Pessoas! Eu sou o Henrique Malikovski ##
  
 <div> 
  <a href="https://www.linkedin.com/in/henriquemalikovski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
